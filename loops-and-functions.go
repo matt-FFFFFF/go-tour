@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-// Square root calculates
+// Square root calculates teh sqrt of a given number
 func Sqrt(x float64) float64 {
 	// initial guess for the answer
 	answer := 1.0
